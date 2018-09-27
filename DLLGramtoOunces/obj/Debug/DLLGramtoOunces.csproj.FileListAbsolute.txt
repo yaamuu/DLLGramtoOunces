@@ -1,0 +1,12 @@
+D:\School\Networking\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\bin\Debug\DLLGramtoOunces.dll
+D:\School\Networking\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\bin\Debug\DLLGramtoOunces.pdb
+D:\School\Networking\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.csprojAssemblyReference.cache
+D:\School\Networking\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.csproj.CoreCompileInputs.cache
+D:\School\Networking\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.dll
+D:\School\Networking\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.pdb
+D:\School\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\bin\Debug\DLLGramtoOunces.dll
+D:\School\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\bin\Debug\DLLGramtoOunces.pdb
+D:\School\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.csprojAssemblyReference.cache
+D:\School\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.csproj.CoreCompileInputs.cache
+D:\School\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.dll
+D:\School\Mandatory Assignment\DLLGramtoOunces\DLLGramtoOunces\obj\Debug\DLLGramtoOunces.pdb
